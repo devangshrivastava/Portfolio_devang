@@ -39,7 +39,7 @@ export const experiencesData = [
     title: "Research Intern",
     location: "IIT Jodhpur",
     description:
-      "Wored as research intern IIT Jodhpur undethe guidance of Dr Pallavi Jain. My work consist of Graph algorithms particulary exploring the weighted diverese pair problem",
+      "Worked as research intern IIT Jodhpur undethe guidance of Dr Pallavi Jain. My work consist of Graph algorithms particulary exploring the weighted diverese pair problem",
     icon: React.createElement(LuGraduationCap),
     date: "May-June 2023",
   },
@@ -63,7 +63,7 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "PYQ",
     description:
       "A full-stack website based on DJangorest framework and react. It is a platform where student can access the pastyear question paper with ease",
     tags: ["React", "Django", "Postgress", "Tailwind", "Redux"],
