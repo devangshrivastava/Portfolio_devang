@@ -32,12 +32,12 @@ export default function Intro() {
           >
             <Image
               src={Dp}
-              alt="Ricardo portrait"
-              width="192"
-              height="192"
+              alt="Devang portrait"
+              width="240"
+              height="240"
               quality="95"
               priority={true}
-              className="h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
+              className="h-30 w-30 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
             />
           </motion.div>
 
@@ -52,7 +52,7 @@ export default function Intro() {
               duration: 0.7,
             }}
           >
-            👋
+            
           </motion.span>
         </div>
       </div>
@@ -62,7 +62,7 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Devang Shrivastava.</span> I'm a{" "}
+        <span className="font-bold">Hello👋, I'm Devang Shrivastava.</span> I'm a{" "}
         <span className="font-bold">Computer Science Student</span> {" "}
         <span className="font-bold"></span>. I love coldplay.
         {/* building <span className="italic">Web-applications</span>. My focus is decentralization {" "}
