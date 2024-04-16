@@ -8,11 +8,11 @@ export default function Footer() {
         Devang Shtivastava
       </small>
       <p className="text-xs">
-        <span className="font-semibold">About this website:</span> This is my portfolio and blog post website. For any improvements do let me know!
+        <span className="font-semibold">About this website:</span> This is my portfolio website. For any improvements do let me know!
       </p>
-      <p className="text-xs">
+      {/* <p className="text-xs">
           Drink water
-      </p>
+      </p> */}
       
     </footer>
   );
