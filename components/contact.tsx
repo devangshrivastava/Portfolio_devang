@@ -63,7 +63,7 @@ const Contact: FC = () =>  {
 
       <p className="text-gray-700 -mt-6 dark:text-white/80">
         Please contact me at{" "}
-        <a className="underline" href="mailto:example@gmail.com">
+        <a className="underline" href="mailto:shrivastavadevang2706@gmail.com">
           shrivastavadevang2706@gmail.com
         </a>{" "}
         
